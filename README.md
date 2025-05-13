@@ -18,7 +18,7 @@
 - 🌐 **Web-things** – Flask / React dashboards that turn giant logs into pretty pictures (cut reporting time by 17 ×).  
 - 🈂️ **Thai-Chinese NLP** – constraint-based translation that nails lexical accuracy on tricky short texts.  
 
-### 🎯 Current mission  
+### 🎯 Current personl mission (side project) 
 Build a **real-time phone-call translator**: when visitors ring up locals, each side hears their own language (foreigner → Thai, Thai → foreigner) without lag. Think *“live dubbing for everyday conversations.”* If that sparks ideas or you want to collaborate, hit me up!  
 
 ### 🛠️ Current toolbox  
